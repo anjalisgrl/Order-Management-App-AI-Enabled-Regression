@@ -1,0 +1,2 @@
+# Order-Management-App-AI-Enabled-Regression
+The B2B world operates differently from the B2C or C2C world. Seller business interacts with various businesses and sells goods to all of them at various times. Hence, the seller business needs to keep track of the total amount it owes from all the buyers. This involves keeping track of all orders from all the buyers. This web application aims to provide help to all the sellers of B2B world. Its sole purpose is to help the sellers to keep the track of payment date and the amount paid by the buyers.
